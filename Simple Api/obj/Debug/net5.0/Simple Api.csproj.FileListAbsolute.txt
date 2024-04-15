@@ -1,0 +1,23 @@
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\net5.0\appsettings.json
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\net5.0\Simple Api.exe
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\net5.0\Simple Api.deps.json
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\net5.0\Simple Api.runtimeconfig.json
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\net5.0\Simple Api.runtimeconfig.dev.json
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\net5.0\Simple Api.dll
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\net5.0\ref\Simple Api.dll
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\net5.0\Simple Api.pdb
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\Simple Api.csproj.AssemblyReference.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\Simple Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\Simple Api.AssemblyInfoInputs.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\Simple Api.AssemblyInfo.cs
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\Simple Api.csproj.CoreCompileInputs.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\Simple Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\staticwebassets\Simple Api.StaticWebAssets.Manifest.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\staticwebassets\Simple Api.StaticWebAssets.xml
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\scopedcss\bundle\Simple Api.styles.css
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\Simple Api.RazorTargetAssemblyInfo.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\Simple Api.dll
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\ref\Simple Api.dll
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\Simple Api.pdb
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\net5.0\Simple Api.genruntimeconfig.cache

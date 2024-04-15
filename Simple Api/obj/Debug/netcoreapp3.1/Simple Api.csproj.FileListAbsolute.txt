@@ -1,0 +1,21 @@
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\netcoreapp3.1\Simple Api.exe
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\netcoreapp3.1\Simple Api.deps.json
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\netcoreapp3.1\Simple Api.runtimeconfig.json
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\netcoreapp3.1\Simple Api.runtimeconfig.dev.json
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\netcoreapp3.1\Simple Api.dll
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\bin\Debug\netcoreapp3.1\Simple Api.pdb
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\Simple Api.csproj.AssemblyReference.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\Simple Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\Simple Api.AssemblyInfoInputs.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\Simple Api.AssemblyInfo.cs
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\Simple Api.csproj.CoreCompileInputs.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\Simple Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\staticwebassets\Simple Api.StaticWebAssets.Manifest.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\staticwebassets\Simple Api.StaticWebAssets.xml
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\Simple Api.styles.css
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\Simple Api.RazorTargetAssemblyInfo.cache
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\Simple Api.dll
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\Simple Api.pdb
+C:\Users\ujjwalkushwaha\OneDrive - Nagarro\Desktop\Jenkins on WSL\Simple Api\Simple Api\obj\Debug\netcoreapp3.1\Simple Api.genruntimeconfig.cache
